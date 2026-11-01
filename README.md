@@ -1,2 +1,2 @@
-# shristypotfolio
+# shristyportfolio
 Full Stack Developer
